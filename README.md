@@ -1,2 +1,2 @@
-# CCC-Solutions
+# CCC Solutions by Developer John Seong
 Solutions for Canadian Computing Competition Problems for Beginners.
