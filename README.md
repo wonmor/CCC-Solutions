@@ -1,2 +1,2 @@
 # CCC Solutions by Developer John Seong
-Solutions for *Canadian Computing Competition*.
+Solutions for University of Waterloo's *Canadian Computing Competition*.
